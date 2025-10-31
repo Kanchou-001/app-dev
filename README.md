@@ -1,6 +1,6 @@
 # app-dev
 My First Repository
-**My Favourite Series**
+My Favourite Series
 1. Fate Series
 2. Majo no Tabitabi
 3. Violet Evergarden
