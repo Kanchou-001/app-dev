@@ -4,6 +4,7 @@ My First Repository
 1. Fate Series
 2. Majo no Tabitabi
 3. Violet Evergarden
+---
 |Infos||Description|
 | ----------- | ----------- |
 |*Series*||**Short Description**|
